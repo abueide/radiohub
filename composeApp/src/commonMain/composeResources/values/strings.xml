@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadioHub</string>
+    <string name="title">The app for radiophiles ;)</string>
+    <string name="radio_connect_title">Connect</string>
+    <String name="channel_select_title">Channel</String>
+    <String name="settings">Settings</String>
+    <string name="back_button">Back</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
